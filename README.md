@@ -1,4 +1,4 @@
-👋 Hi, I'm Cooper Kier!
+##👋 Hi, I'm Cooper Kier! <br/>
 Electrical & Computer Engineering Student at the University of Colorado Boulder (Graduating Dec 2026)
 Minors: Computer Science & Quantum Engineering
 GPA: 3.7 | Dean’s List
