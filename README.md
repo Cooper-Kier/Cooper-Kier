@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Cooper!  
 
 **Electrical & Computer Engineering Student** at the University of Colorado Boulder (Graduating Dec 2026)  
-Minors: Computer Science & Quantum Engineering  
+Minors: Computer Science, Quantum Engineering & Philosophy 
 GPA: 3.7 | Dean’s List  
  
 ## 🛠 Skills  
-**Programming:** C++, Python, JavaScript, Swift/SwiftUI, Verilog  
+**Programming:** C++, Python, JavaScript, Swift/SwiftUI, Verilog, Java
 
 **Technologies:** AWS, Docker, TensorFlow, Git/GitHub, FPGAs, Linux  
 
@@ -24,27 +24,27 @@ GPA: 3.7 | Dean’s List
 
 ## 🧠 Projects  
 ### 📨 **Spam Detection with Machine Learning**  
-- Built a TensorFlow model to classify spam messages with 95 %+ accuracy.  
-- Deployed with Docker and served real-time predictions via a lightweight Go server.  
+- Built a TensorFlow model to classify spam messages with 95 %+ accuracy
+- Deployed the model using Docker and Google Cloud Platform, serving predictions through a Python Flask web application
 
 ### 📱 **PriceThat (iOS App)**  
-- Developed and published an app on the App Store with 100+ downloads.  
-- Integrated AWS and OpenAI APIs to process user data and cost predictions.  
+- Developed and published an app on the App Store with 100+ downloads
+- Integrated AWS and OpenAI APIs to process user data and cost predictions
 
 ### 🌐 **3D Personal Portfolio Website**  
-- Created a dynamic portfolio using HTML, CSS, JavaScript, and Three.js.  
-- Integrated a custom 3D model built in Blender.  
+- Created a dynamic portfolio using HTML, CSS, JavaScript, and Three.js 
+- Integrated a custom 3D model built in Blender
 
 ### 📻 **FM Radio Receiver**  
-- Designed and built a functional FM radio using a custom PCB.  
-- Debugged and optimized circuit performance for clear audio output.  
+- Designed and built a functional FM radio using a custom PCB 
+- Debugged and optimized circuit performance for clear audio output 
 
 ### ⏰ **Alarm Sleep Mask**  
-- 1st place project for an innovative wearable alarm using an Arduino and Bluetooth.  
-- Simulated circuits with LTSpice and coordinated the team using Trello and Jira.  
+- 1st place project for an innovative wearable alarm using an Arduino and Bluetooth
+- Simulated circuits with LTSpice and coordinated the team using Trello and Jira 
 
 ### ⌛ **FPGA Projects**  
-- Designed digital systems like timers, finite state machines, and quadrature encoders using Verilog and Vivado.  
+- Designed digital systems like timers, finite state machines, and quadrature encoders using Verilog and Vivado
 
 ## Leadership  
 - **Freshmen Engineering Mentor** at CU Boulder (Aug 2024 – Present)  
