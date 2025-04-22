@@ -14,10 +14,10 @@ GPA: 3.7 | Dean’s List
 **Other:** Circuit Design, PCB Design, AI/ML, Embedded Systems  
 
 ## 💼 Experience  
-### **Software Engineering Intern** @ Empower (May 2025 - Aug 2025)  
+### **Software Engineer Intern** @ Empower (May 2025 - Aug 2025)  
 - Expected to work with Java, Python, and AWS.  
 
-### **Leak Survey Intern** @ HydromaxUSA (May 2024 - Aug 2024)  
+### **Field Engineer Intern** @ HydromaxUSA (May 2024 - Aug 2024)  
 - Surveyed Xcel Energy assets, identifying and documenting gas leaks daily.  
 - Consistently ranked in the top 5 employees based on productivity.  
 - Exceeded expectations by surveying 85,000+ feet weekly and finding 4+ leaks per day.  
