@@ -15,12 +15,12 @@ GPA: 3.7 | Dean’s List
 
 ## 💼 Experience  
 ### **Software Engineer Intern** @ Empower (May 2025 - Aug 2025)  
-- Expected to work with Java, Python, and AWS.  
+- Expected to work with Java, Python, and AWS
 
 ### **Field Engineer Intern** @ HydromaxUSA (May 2024 - Aug 2024)  
-- Surveyed Xcel Energy assets, identifying and documenting gas leaks daily.  
-- Consistently ranked in the top 5 employees based on productivity.  
-- Exceeded expectations by surveying 85,000+ feet weekly and finding 4+ leaks per day.  
+- Surveyed Xcel Energy assets, identifying and documenting gas leaks daily  
+- Consistently ranked in the top 5 employees based on productivity
+- Exceeded expectations by surveying 85,000+ feet weekly and finding 4+ leaks per day
 
 ## 🧠 Projects  
 ### 📨 **Spam Detection with Machine Learning**  
